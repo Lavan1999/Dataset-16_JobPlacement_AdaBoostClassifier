@@ -1,5 +1,5 @@
 # Job Placement Dataset Analysis
-
+ 
 ## Overview
 This repository contains the code and documentation for analyzing the "Job Placement" dataset using Python and statistical methods. The dataset consists of various variables related to job placements, including candidate information such as gender, age, degree, college, placement status, salary, GPA, years of experience, and more. Our goal is to explore, analyze, and draw insights from this data.
 
